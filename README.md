@@ -11,7 +11,7 @@ An Obsidian theme in the style of a sci-fi heads-up display: a deep blue-black b
 
 It is the standalone version of the theme included in the [Faceless](https://github.com/precieuxfassinou/faceless) plugin; you do not need both.
 
-![Screenshot](screenshot.png)
+![Faceless HUD with a note open](docs/full.png)
 
 ## Credits
 
